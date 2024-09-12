@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//TineshPandian.github.io/Pokemon%20/static/css/main.64b75dbd.css",
+    "main.js": "//TineshPandian.github.io/Pokemon%20/static/js/main.e492261f.js",
+    "static/js/453.78b87f59.chunk.js": "//TineshPandian.github.io/Pokemon%20/static/js/453.78b87f59.chunk.js",
+    "index.html": "//TineshPandian.github.io/Pokemon%20/index.html",
+    "main.64b75dbd.css.map": "//TineshPandian.github.io/Pokemon%20/static/css/main.64b75dbd.css.map",
+    "main.e492261f.js.map": "//TineshPandian.github.io/Pokemon%20/static/js/main.e492261f.js.map",
+    "453.78b87f59.chunk.js.map": "//TineshPandian.github.io/Pokemon%20/static/js/453.78b87f59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64b75dbd.css",
+    "static/js/main.e492261f.js"
+  ]
+}
